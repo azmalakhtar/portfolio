@@ -1,0 +1,21 @@
+* {
+    color: white;
+    /* background-color: teal; */
+    /* background-color: steelblue; */
+    background-color: slategrey;
+    /* background-color: slateblue; */
+    /* background-color: sienna; */
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: monospace;
+}
+.projectBlock {
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 4px 30px;
+    margin: 8px 16px;
+}
+
+#title {
+    padding: 4px;
+    margin: 4px;
+}
